@@ -70,5 +70,3 @@ public class Switch {
                 System.out.println("Месяц " + month + " относится к сезону: " + season);
             }
         }
-    }
-}
